@@ -1,8 +1,8 @@
-ColorID,ColorName
-1,"Black"
-2,"Brown"
-3,"Golden"
-4,"Yellow"
-5,"Cream"
-6,"Gray"
-7,"White"
+ColorID,ColorName,ColorIntensity
+1,Black,1
+2,Brown,0.883
+3,Golden,0.667
+4,Yellow,0.333
+5,Cream,0.1667
+6,Gray,0.5
+7,White,0
